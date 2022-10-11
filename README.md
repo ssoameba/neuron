@@ -7,4 +7,4 @@
 
 ## 어떤 내용
 * 블라블라블라
-* 서울예술대학
+* https://www.seoularts.ac.kr/web/main/mainPage.do
