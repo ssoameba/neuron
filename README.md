@@ -9,6 +9,7 @@
 ## 나는야
 * 잠이 많아요.
 * https://www.seoularts.ac.kr
+* 아;; 진짜 졸리네ㄷㄷㄷ
 
 ## 기분
 * skrrr
